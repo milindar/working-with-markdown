@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://upload.wikipedia.org/wiki/Tiger#/media/File:Royal_Bengal_Tiger_at_Kanha_National_Park.jpg "tiger")
+![Hosted image](https://en.wikipedia.org/wiki/Tiger#/media/File:Royal_Bengal_Tiger_at_Kanha_National_Park.jpg "tiger")
 
 ## Paragraphs
 
@@ -77,7 +77,7 @@ If you don't want text to flow together, leave a blank line between items you wi
 ## Preview Changes
 
 If editing online in GitHub, scroll up to the top of the edit box, and click "Preview Changes" to see what your file will look like when displayed as a webpage. 
-## new content
+
 ## Learn More
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
